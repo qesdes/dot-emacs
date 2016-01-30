@@ -1,5 +1,4 @@
-# dot-emacs
-# KYS .emacs - Test only
+# .emacs - Test with github and for fun
 
 This is my dot emacs repository with GitHub test.
 
