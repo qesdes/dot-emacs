@@ -2,15 +2,13 @@
 
 This is my dot emacs repository with GitHub test.
 
+## Test
+1. unicode test
+  유니코드 UTF8로 테스트 한다.
+
 ## Table of Contents
 
 * [Usage](#usage)
-* [Contributing](#contributing)
-* [Recipe Format](#recipe-format)
-* [Build Scripts](#build-scripts)
-* [API](#api)
-* [About](#about)
-* [Stable Packages](#stable-packages)
 
 
 ## Usage
@@ -23,7 +21,6 @@ download and use.
 (message "not included")
 ```
 package which we provide.
-
 
 ## Contributing
 
